@@ -3,9 +3,9 @@ NPM    : 41155050210041 <br>
 Kelas  : INF-A2 <br>
 Matkul : Machine Learning**
 
+> kumpulan dari tugas 1 sampai tugas 5
+
 # Tugas Pertemuan 1
-
-
 
 ### 1.	Tuliskan nama dan nomor NPM anda pada Jupiter Notebook.
  ![image](https://github.com/user-attachments/assets/0901d629-cb4e-4a5f-8139-f646a3b67298).
